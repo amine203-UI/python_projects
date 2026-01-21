@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">A collection of 35 fun Python projects for beginners!</h3>
-<p align="center">Developed by Amine Medjeber </p>
+
 
 ## 📚 About
 
